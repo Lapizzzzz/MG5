@@ -2,7 +2,7 @@
 ## Devlog
 ### 1. NavMesh and Physics Movement
 
-NavMesh finds paths around obstacles. It is useful for villagers walking between houses in a farming game. Physics movement uses forces and collisions. It is useful for a bowling game where a ball knocks down pins.
+NavMesh finds paths around obstacles. It is useful for villagers walking between houses in a farming game. Physics movement is better for a platform game where the character needs to jump, fall with gravity, and collide with platforms.
 
 ### 2. Fixing the Bird Loop
 
